@@ -34,9 +34,10 @@
 }
 .toppad {
   margin-top: 55px;
-  width: 700px;
+  width: 60%;
+  min-width: 600px;
   display: block;
-  margin-left: 50px;
+  margin-left: 20%;
 }
 
 .panel-info > .panel-heading {

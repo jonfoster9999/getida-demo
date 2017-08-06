@@ -22,4 +22,11 @@
 .content-container {
 	display: flex;
 	align-items: center;
+	justify-content: center;
+}
+
+.background-me {
+	background-image: url(http://getida-demo.herokuapp.com/assets/img/background1.svg);
+	background-size: cover;
+	filter: alpha(opacity=80);
 }
