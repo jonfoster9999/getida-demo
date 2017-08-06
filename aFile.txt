@@ -1,0 +1,266 @@
+Hash: [1m89751b3451f527320848[39m[22m
+Version: webpack [1m2.4.1[39m[22m
+Time: [1m15885[39m[22mms
+                                                  [1mAsset[39m[22m       [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+[1m[32mglyphicons-halflings-regular.448c34a56d699c29117a.woff2[39m[22m      18 kB        [1m[39m[22m  [1m[32m[39m[22m
+           [1m[32mfontawesome-webfont.912ec66d7572ff821749.svg[39m[22m     444 kB        [1m[39m[22m  [1m[32m[39m[22m
+           [1m[32mfontawesome-webfont.674f50d287a8c48dc19b.eot[39m[22m     166 kB        [1m[39m[22m  [1m[32m[39m[22m
+          [1m[32mfontawesome-webfont.fee66e712a8a08eef580.woff[39m[22m      98 kB        [1m[39m[22m  [1m[32m[39m[22m
+         [1m[32mfontawesome-webfont.af7ae505a9eed503f8b8.woff2[39m[22m    77.2 kB        [1m[39m[22m  [1m[32m[39m[22m
+ [1m[32mglyphicons-halflings-regular.fa2772327f55d8198301.woff[39m[22m    23.4 kB        [1m[39m[22m  [1m[32m[39m[22m
+  [1m[32mglyphicons-halflings-regular.89889688147bd7575d63.svg[39m[22m     109 kB        [1m[39m[22m  [1m[32m[39m[22m
+           [1m[32mfontawesome-webfont.b06871f281fee6b241d6.ttf[39m[22m     166 kB        [1m[39m[22m  [1m[32m[39m[22m
+  [1m[32mglyphicons-halflings-regular.f4769f9bdb7466be6508.eot[39m[22m    20.1 kB        [1m[39m[22m  [1m[32m[39m[22m
+  [1m[32mglyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf[39m[22m    45.4 kB        [1m[39m[22m  [1m[32m[39m[22m
+               [1m[32mpolyfills.357b65db3072db13bae3.bundle.js[39m[22m    64.9 kB       [1m0[39m[22m  [1m[32m[39m[22mpolyfills
+                    [1m[32mmain.bddc9f391fa6cc74edae.bundle.js[39m[22m  490 bytes       [1m2[39m[22m  [1m[32m[39m[22mmain
+                  [1m[32mvendor.6aef28fb631ace036303.bundle.js[39m[22m     222 kB       [1m3[39m[22m  [1m[32m[39m[22mvendor
+                  [1m[32minline.d2c26128207de47134a5.bundle.js[39m[22m    1.46 kB       [1m4[39m[22m  [1m[32m[39m[22minline
+                 [1m[32mstyles.85789a38f9531e467935.bundle.css[39m[22m     146 kB       [1m1[39m[22m  [1m[32m[39m[22mstyles
+chunk    {[1m[33m0[39m[22m} [1m[32mpolyfills.357b65db3072db13bae3.bundle.js[39m[22m (polyfills) 177 kB {[1m[33m4[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m1[39m[22m} [1m[32mstyles.85789a38f9531e467935.bundle.css[39m[22m (styles) 175 bytes {[1m[33m4[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m2[39m[22m} [1m[32mmain.bddc9f391fa6cc74edae.bundle.js[39m[22m (main) 668 bytes {[1m[33m3[39m[22m}[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m3[39m[22m} [1m[32mvendor.6aef28fb631ace036303.bundle.js[39m[22m (vendor) 849 kB[1m[33m [initial][39m[22m[1m[32m [rendered][39m[22m
+chunk    {[1m[33m4[39m[22m} [1m[32minline.d2c26128207de47134a5.bundle.js[39m[22m (inline) 0 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+
+[1m[33mWARNING in polyfills.357b65db3072db13bae3.bundle.js from UglifyJs
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_0_core_js_es6_reflect___default [polyfills.357b65db3072db13bae3.bundle.js:1245,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1_core_js_es7_reflect___default [polyfills.357b65db3072db13bae3.bundle.js:1247,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2_zone_js_dist_zone___default [polyfills.357b65db3072db13bae3.bundle.js:1249,25]
+Condition always true [polyfills.357b65db3072db13bae3.bundle.js:1444,2]
+Side effects in initialization of unused variable msie [polyfills.357b65db3072db13bae3.bundle.js:2704,12]
+Side effects in initialization of unused variable targetZone [polyfills.357b65db3072db13bae3.bundle.js:2983,20]
+Dropping unused variable typeOfDelegate [polyfills.357b65db3072db13bae3.bundle.js:3138,24]
+Side effects in initialization of unused variable showError [polyfills.357b65db3072db13bae3.bundle.js:2037,16]
+Condition left of || always false [polyfills.357b65db3072db13bae3.bundle.js:2305,38]
+Condition left of || always false [polyfills.357b65db3072db13bae3.bundle.js:2308,38]
+Non-strict equality against boolean: == false [polyfills.357b65db3072db13bae3.bundle.js:4070,29]
+Side effects in initialization of unused variable Zone$1 [polyfills.357b65db3072db13bae3.bundle.js:1456,4][39m[22m
+
+[1m[33mWARNING in main.bddc9f391fa6cc74edae.bundle.js from UglifyJs
+Dropping unreachable code [main.bddc9f391fa6cc74edae.bundle.js:49,0]
+Dropping unreachable code [main.bddc9f391fa6cc74edae.bundle.js:52,0]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_0__angular_core__ [main.bddc9f391fa6cc74edae.bundle.js:41,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1__environments_environment__ [main.bddc9f391fa6cc74edae.bundle.js:42,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2__angular_platform_browser__ [main.bddc9f391fa6cc74edae.bundle.js:43,25][39m[22m
+
+[1m[33mWARNING in vendor.6aef28fb631ace036303.bundle.js from UglifyJs
+Dropping unused function isPlatformBrowser [vendor.6aef28fb631ace036303.bundle.js:4036,9]
+Dropping unused function isPlatformServer [vendor.6aef28fb631ace036303.bundle.js:4045,9]
+Dropping unused function isPlatformWorkerApp [vendor.6aef28fb631ace036303.bundle.js:4054,9]
+Dropping unused function isPlatformWorkerUi [vendor.6aef28fb631ace036303.bundle.js:4063,9]
+Side effects in initialization of unused variable LOCATION_INITIALIZED [vendor.6aef28fb631ace036303.bundle.js:240,4]
+Dropping unused variable NgFor [vendor.6aef28fb631ace036303.bundle.js:1907,4]
+Side effects in initialization of unused variable VERSION [vendor.6aef28fb631ace036303.bundle.js:4081,4]
+Dropping unreachable code [vendor.6aef28fb631ace036303.bundle.js:13468,4]
+Declarations in unreachable code! [vendor.6aef28fb631ace036303.bundle.js:13468,4]
+Dropping unreachable code [vendor.6aef28fb631ace036303.bundle.js:17718,12]
+Declarations in unreachable code! [vendor.6aef28fb631ace036303.bundle.js:17718,12]
+Dropping unused function isDefaultChangeDetectionStrategy [vendor.6aef28fb631ace036303.bundle.js:4926,9]
+Dropping unused function destroyPlatform [vendor.6aef28fb631ace036303.bundle.js:8616,9]
+Dropping unused function registerModuleFactory [vendor.6aef28fb631ace036303.bundle.js:9715,9]
+Dropping unused function getModuleFactory [vendor.6aef28fb631ace036303.bundle.js:9733,9]
+Dropping unused function asNativeElements [vendor.6aef28fb631ace036303.bundle.js:10734,9]
+Dropping unused function unwrapValue [vendor.6aef28fb631ace036303.bundle.js:12797,9]
+Dropping unused function createRendererType2 [vendor.6aef28fb631ace036303.bundle.js:12815,9]
+Dropping unused function interpolate [vendor.6aef28fb631ace036303.bundle.js:13245,9]
+Dropping unused function inlineInterpolate [vendor.6aef28fb631ace036303.bundle.js:13275,9]
+Dropping unused function anchorDef [vendor.6aef28fb631ace036303.bundle.js:13334,9]
+Dropping unused function elementDef [vendor.6aef28fb631ace036303.bundle.js:13384,9]
+Dropping unused function moduleProvideDef [vendor.6aef28fb631ace036303.bundle.js:13726,9]
+Dropping unused function moduleDef [vendor.6aef28fb631ace036303.bundle.js:13738,9]
+Dropping unused function createComponentFactory [vendor.6aef28fb631ace036303.bundle.js:14102,9]
+Dropping unused function getComponentViewDefinitionFactory [vendor.6aef28fb631ace036303.bundle.js:14109,9]
+Dropping unused function nodeValue [vendor.6aef28fb631ace036303.bundle.js:14629,9]
+Dropping unused function directiveDef [vendor.6aef28fb631ace036303.bundle.js:14948,9]
+Dropping unused function pipeDef [vendor.6aef28fb631ace036303.bundle.js:14977,9]
+Dropping unused function providerDef [vendor.6aef28fb631ace036303.bundle.js:14989,9]
+Dropping unused function queryDef [vendor.6aef28fb631ace036303.bundle.js:15526,9]
+Dropping unused function ngContentDef [vendor.6aef28fb631ace036303.bundle.js:15732,9]
+Dropping unused function purePipeDef [vendor.6aef28fb631ace036303.bundle.js:15785,9]
+Dropping unused function pureArrayDef [vendor.6aef28fb631ace036303.bundle.js:15793,9]
+Dropping unused function pureObjectDef [vendor.6aef28fb631ace036303.bundle.js:15800,9]
+Dropping unused function textDef [vendor.6aef28fb631ace036303.bundle.js:16043,9]
+Dropping unused function viewDef [vendor.6aef28fb631ace036303.bundle.js:16213,9]
+Dropping unused function overrideProvider [vendor.6aef28fb631ace036303.bundle.js:18099,9]
+Dropping unused function clearProviderOverrides [vendor.6aef28fb631ace036303.bundle.js:18106,9]
+Dropping unused function createNgModuleFactory [vendor.6aef28fb631ace036303.bundle.js:18116,9]
+Dropping unused function trigger$$1 [vendor.6aef28fb631ace036303.bundle.js:19023,9]
+Dropping unused function animate$$1 [vendor.6aef28fb631ace036303.bundle.js:19032,9]
+Dropping unused function group$$1 [vendor.6aef28fb631ace036303.bundle.js:19040,9]
+Dropping unused function sequence$$1 [vendor.6aef28fb631ace036303.bundle.js:19048,9]
+Dropping unused function style$$1 [vendor.6aef28fb631ace036303.bundle.js:19056,9]
+Dropping unused function state$$1 [vendor.6aef28fb631ace036303.bundle.js:19065,9]
+Dropping unused function keyframes$$1 [vendor.6aef28fb631ace036303.bundle.js:19073,9]
+Dropping unused function transition$$1 [vendor.6aef28fb631ace036303.bundle.js:19082,9]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable___default [vendor.6aef28fb631ace036303.bundle.js:4122,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_merge___default [vendor.6aef28fb631ace036303.bundle.js:4124,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_share___default [vendor.6aef28fb631ace036303.bundle.js:4126,25]
+Side effects in initialization of unused variable __WEBPACK_IMPORTED_MODULE_4_rxjs_Subject___default [vendor.6aef28fb631ace036303.bundle.js:4128,25]
+Side effects in initialization of unused variable ANALYZE_FOR_ENTRY_COMPONENTS [vendor.6aef28fb631ace036303.bundle.js:4845,4]
+Side effects in initialization of unused variable ContentChildren [vendor.6aef28fb631ace036303.bundle.js:4873,4]
+Side effects in initialization of unused variable ContentChild [vendor.6aef28fb631ace036303.bundle.js:4883,4]
+Side effects in initialization of unused variable ViewChildren [vendor.6aef28fb631ace036303.bundle.js:4893,4]
+Side effects in initialization of unused variable ViewChild [vendor.6aef28fb631ace036303.bundle.js:4903,4]
+Side effects in initialization of unused variable Component [vendor.6aef28fb631ace036303.bundle.js:4953,4]
+Side effects in initialization of unused variable Output [vendor.6aef28fb631ace036303.bundle.js:4977,4]
+Side effects in initialization of unused variable HostBinding [vendor.6aef28fb631ace036303.bundle.js:4984,4]
+Side effects in initialization of unused variable HostListener [vendor.6aef28fb631ace036303.bundle.js:4991,4]
+Dropping unused variable CUSTOM_ELEMENTS_SCHEMA [vendor.6aef28fb631ace036303.bundle.js:5007,4]
+Dropping unused variable NO_ERRORS_SCHEMA [vendor.6aef28fb631ace036303.bundle.js:5015,4]
+Side effects in initialization of unused variable ViewMetadata [vendor.6aef28fb631ace036303.bundle.js:5057,4]
+Dropping unused variable ERROR_COMPONENT_TYPE [vendor.6aef28fb631ace036303.bundle.js:5303,4]
+Side effects in initialization of unused variable PACKAGE_ROOT_URL [vendor.6aef28fb631ace036303.bundle.js:7230,4]
+Side effects in initialization of unused variable ModuleWithComponentFactories [vendor.6aef28fb631ace036303.bundle.js:7278,4]
+Side effects in initialization of unused variable COMPILER_OPTIONS [vendor.6aef28fb631ace036303.bundle.js:7377,4]
+Side effects in initialization of unused variable CodegenComponentFactoryResolver [vendor.6aef28fb631ace036303.bundle.js:7563,4]
+Dropping unused variable wtfStartTimeRange [vendor.6aef28fb631ace036303.bundle.js:7862,4]
+Dropping unused variable wtfEndTimeRange [vendor.6aef28fb631ace036303.bundle.js:7869,4]
+Side effects in initialization of unused variable RenderComponentType [vendor.6aef28fb631ace036303.bundle.js:9232,4]
+Side effects in initialization of unused variable RenderDebugInfo [vendor.6aef28fb631ace036303.bundle.js:9255,4]
+Side effects in initialization of unused variable Renderer2Interceptor [vendor.6aef28fb631ace036303.bundle.js:9446,4]
+Side effects in initialization of unused variable RootRenderer [vendor.6aef28fb631ace036303.bundle.js:9463,4]
+Side effects in initialization of unused variable NgModuleFactoryLoader [vendor.6aef28fb631ace036303.bundle.js:9696,4]
+Side effects in initialization of unused variable moduleFactories [vendor.6aef28fb631ace036303.bundle.js:9707,4]
+Side effects in initialization of unused variable EmbeddedViewRef [vendor.6aef28fb631ace036303.bundle.js:10486,4]
+Side effects in initialization of unused variable ValueUnwrapper [vendor.6aef28fb631ace036303.bundle.js:10863,4]
+Side effects in initialization of unused variable TRANSLATIONS [vendor.6aef28fb631ace036303.bundle.js:12442,4]
+Side effects in initialization of unused variable TRANSLATIONS_FORMAT [vendor.6aef28fb631ace036303.bundle.js:12446,4]
+Side effects in initialization of unused variable DebugContext [vendor.6aef28fb631ace036303.bundle.js:12615,4]
+Dropping unused variable EMPTY_ARRAY [vendor.6aef28fb631ace036303.bundle.js:13316,4]
+Dropping unused variable EMPTY_MAP [vendor.6aef28fb631ace036303.bundle.js:13317,4]
+Side effects in initialization of unused variable ComponentFactory_ [vendor.6aef28fb631ace036303.bundle.js:14112,4]
+Side effects in initialization of unused variable NgModuleFactory_ [vendor.6aef28fb631ace036303.bundle.js:18119,4]
+Dropping unused variable AUTO_STYLE$$1 [vendor.6aef28fb631ace036303.bundle.js:19016,4]
+Dropping unused function enableDebugTools [vendor.6aef28fb631ace036303.bundle.js:24058,9]
+Dropping unused function disableDebugTools [vendor.6aef28fb631ace036303.bundle.js:24068,9]
+Side effects in initialization of unused variable AngularProfiler [vendor.6aef28fb631ace036303.bundle.js:23980,4]
+Side effects in initialization of unused variable By [vendor.6aef28fb631ace036303.bundle.js:24083,4]
+Side effects in initialization of unused variable VERSION [vendor.6aef28fb631ace036303.bundle.js:24147,4]
+Dropping unused function __rest [vendor.6aef28fb631ace036303.bundle.js:24352,9]
+Dropping unused function __decorate [vendor.6aef28fb631ace036303.bundle.js:24362,9]
+Dropping unused function __param [vendor.6aef28fb631ace036303.bundle.js:24369,9]
+Dropping unused function __metadata [vendor.6aef28fb631ace036303.bundle.js:24373,9]
+Dropping unused function __awaiter [vendor.6aef28fb631ace036303.bundle.js:24377,9]
+Dropping unused function __generator [vendor.6aef28fb631ace036303.bundle.js:24386,9]
+Dropping unused function __exportStar [vendor.6aef28fb631ace036303.bundle.js:24414,9]
+Dropping unused function __spread [vendor.6aef28fb631ace036303.bundle.js:24446,9]
+Dropping unused function __asyncGenerator [vendor.6aef28fb631ace036303.bundle.js:24456,9]
+Dropping unused function __asyncDelegator [vendor.6aef28fb631ace036303.bundle.js:24468,9]
+Dropping unused function __asyncValues [vendor.6aef28fb631ace036303.bundle.js:24474,9]
+Side effects in initialization of unused variable __assign [vendor.6aef28fb631ace036303.bundle.js:24344,4][39m[22m
+
+[1m[31mERROR in ./src/main.ts
+Module not found: Error: Can't resolve './$$_gendir/app/app.module.ngfactory' in '/Users/jonathanfoster/Desktop/getida-login/src'
+ @ ./src/main.ts 4:0-74
+ @ multi ./src/main.ts[39m[22m
+Child [1msrc/app/app.component.html[39m[22m:
+                                                                    [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/app.component.html[39m[22m  3.07 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/app.component.html[39m[22m 423 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/login/login.component.html[39m[22m:
+                                                                            [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/login/login.component.html[39m[22m  5.87 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/login/login.component.html[39m[22m 3.23 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/header/header.component.html[39m[22m:
+                                                                              [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/header/header.component.html[39m[22m  3.85 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/header/header.component.html[39m[22m 1.2 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/signup/signup.component.html[39m[22m:
+                                                                              [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/signup/signup.component.html[39m[22m  7.16 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/signup/signup.component.html[39m[22m 4.51 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/home/home.component.html[39m[22m:
+                                                                          [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/home/home.component.html[39m[22m  10.8 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/home/home.component.html[39m[22m 8.1 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/admin-panel.component.html[39m[22m:
+                                                                                        [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/admin-panel.component.html[39m[22m  8.65 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/admin-panel.component.html[39m[22m 6 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/referrals/referrals.component.html[39m[22m:
+                                                                                                [1mAsset[39m[22m    [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/referrals/referrals.component.html[39m[22m  5.5 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/referrals/referrals.component.html[39m[22m 2.85 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/profile/profile.component.html[39m[22m:
+                                                                                            [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/profile/profile.component.html[39m[22m  5.19 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/profile/profile.component.html[39m[22m 2.54 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/contact/contact.component.html[39m[22m:
+                                                                                            [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/contact/contact.component.html[39m[22m  4.38 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/contact/contact.component.html[39m[22m 1.73 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/settings/settings.component.html[39m[22m:
+                                                                                              [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/settings/settings.component.html[39m[22m  4.34 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/settings/settings.component.html[39m[22m 1.69 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/stats/stats.component.html[39m[22m:
+                                                                                        [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/stats/stats.component.html[39m[22m  3.18 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/stats/stats.component.html[39m[22m 533 bytes[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mhtml-webpack-plugin for "index.html"[39m[22m:
+         [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32mindex.html[39m[22m  4.34 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32mindex.html[39m[22m 1.66 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/app.component.css[39m[22m:
+                                                                   [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/app.component.css[39m[22m  5.21 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/app.component.css[39m[22m 2.5 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/login/login.component.css[39m[22m:
+                                                                           [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/login/login.component.css[39m[22m  5.23 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/login/login.component.css[39m[22m 2.54 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/header/header.component.css[39m[22m:
+                                                                             [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/header/header.component.css[39m[22m  5.86 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/header/header.component.css[39m[22m 3.16 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/signup/signup.component.css[39m[22m:
+                                                                             [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/signup/signup.component.css[39m[22m  5.37 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/signup/signup.component.css[39m[22m 2.67 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/home/home.component.css[39m[22m:
+                                                                         [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/home/home.component.css[39m[22m  12.4 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/home/home.component.css[39m[22m 9.68 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/admin-panel.component.css[39m[22m:
+                                                                                       [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/admin-panel.component.css[39m[22m  5.43 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/admin-panel.component.css[39m[22m 2.73 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/referrals/referrals.component.css[39m[22m:
+                                                                                               [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/referrals/referrals.component.css[39m[22m  5.63 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/referrals/referrals.component.css[39m[22m 2.93 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/profile/profile.component.css[39m[22m:
+                                                                                           [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/profile/profile.component.css[39m[22m  5.63 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/profile/profile.component.css[39m[22m 2.94 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/contact/contact.component.css[39m[22m:
+                                                                                           [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/contact/contact.component.css[39m[22m  5.25 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/contact/contact.component.css[39m[22m 2.55 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/settings/settings.component.css[39m[22m:
+                                                                                             [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/settings/settings.component.css[39m[22m  5.31 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/settings/settings.component.css[39m[22m 2.61 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1msrc/app/admin-panel/stats/stats.component.css[39m[22m:
+                                                                                       [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+    [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/stats/stats.component.css[39m[22m  5.98 kB       [1m0[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32m/Users/jonathanfoster/Desktop/getida-login/src/app/admin-panel/stats/stats.component.css[39m[22m 3.29 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mextract-text-webpack-plugin[39m[22m:
+    chunk    {[1m[33m0[39m[22m} [1m[32mextract-text-webpack-plugin-output-filename[39m[22m 2.48 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mextract-text-webpack-plugin[39m[22m:
+                                             [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+      [1m[32mfontawesome-webfont.912ec66d7572ff821749.svg[39m[22m   444 kB        [1m[39m[22m  [1m[32m[39m[22m
+      [1m[32mfontawesome-webfont.b06871f281fee6b241d6.ttf[39m[22m   166 kB        [1m[39m[22m  [1m[32m[39m[22m
+      [1m[32mfontawesome-webfont.674f50d287a8c48dc19b.eot[39m[22m   166 kB        [1m[39m[22m  [1m[32m[39m[22m
+     [1m[32mfontawesome-webfont.fee66e712a8a08eef580.woff[39m[22m    98 kB        [1m[39m[22m  [1m[32m[39m[22m
+    [1m[32mfontawesome-webfont.af7ae505a9eed503f8b8.woff2[39m[22m  77.2 kB        [1m[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32mextract-text-webpack-plugin-output-filename[39m[22m 36 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
+Child [1mextract-text-webpack-plugin[39m[22m:
+                                                      [1mAsset[39m[22m     [1mSize[39m[22m  [1mChunks[39m[22m  [1m[39m[22m[1m[39m[22m[1mChunk Names[39m[22m
+     [1m[32mglyphicons-halflings-regular.fa2772327f55d8198301.woff[39m[22m  23.4 kB        [1m[39m[22m  [1m[32m[39m[22m
+      [1m[32mglyphicons-halflings-regular.89889688147bd7575d63.svg[39m[22m   109 kB        [1m[39m[22m  [1m[32m[39m[22m
+    [1m[32mglyphicons-halflings-regular.448c34a56d699c29117a.woff2[39m[22m    18 kB        [1m[39m[22m  [1m[32m[39m[22m
+      [1m[32mglyphicons-halflings-regular.f4769f9bdb7466be6508.eot[39m[22m  20.1 kB        [1m[39m[22m  [1m[32m[39m[22m
+      [1m[32mglyphicons-halflings-regular.e18bbf611f2a2e43afc0.ttf[39m[22m  45.4 kB        [1m[39m[22m  [1m[32m[39m[22m
+    chunk    {[1m[33m0[39m[22m} [1m[32mextract-text-webpack-plugin-output-filename[39m[22m 119 kB[1m[33m [entry][39m[22m[1m[32m [rendered][39m[22m
