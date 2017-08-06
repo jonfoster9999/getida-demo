@@ -1,0 +1,68 @@
+<div class="container">
+        <div class="col-sm-6 col-sm-offset-3">
+            <h1><span class="fa fa-sign-in"></span> Signup</h1>
+            <!-- show any messages that come back with authentication -->
+            <!-- LOGIN FORM -->
+            <form [formGroup]="registrationForm">
+                <div class="form-group">
+                    <label>Username</label>
+                    <input formControlName="username" type="text" class="form-control" name="username" value="">
+                    <span class="help-block red" *ngIf="!registrationForm.get('username').valid && registrationForm.get('username').touched">Username Required</span>
+                </div>
+
+                <div class="form-group">
+                    <label>Email</label>
+                    <input formControlName="email" type="text" class="form-control" name="email" value="">
+                    <span class="help-block red" *ngIf="!registrationForm.get('email').valid && registrationForm.get('email').touched">Please Enter A Valid Email</span>
+                </div>
+                <div class="form-group">
+                    <label>Password</label>
+                    <input formControlName="password1" type="password" class="form-control" name="password">
+                    <span class="help-block red" *ngIf="registrationForm.get('password1').hasError('invalidPass') && !registrationForm.get('password1').pristine">Password must have: a minimum of 8 characters 1 uppercase letter 1 lowercase 1 number and 1 special character</span>
+                </div>
+                <div class="form-group">
+                    <label>Confirm Password</label>
+                    <input formControlName="password2" type="password" class="form-control" name="confirmPassword">
+                     <span class="help-block red" *ngIf="registrationForm.get('password2').hasError('not-valid') && !registrationForm.get('password2').pristine">Passwords Must Match</span>
+                </div>
+
+                <!-- <div class="form-group">
+                    <label>First Name</label>
+                    <input type="text" class="form-control" name="firstname" value="">
+                </div>
+                <div class="form-group">
+                    <label>Last Name</label>
+                    <input type="text" class="form-control" name="lastname" value="">
+                </div>
+                <div class="form-group">
+                    <label>Phone</label>
+                    <input type="text" class="form-control" name="phone" value=""
+                           onkeypress='return event.charCode >= 48 && event.charCode <= 57'>
+                </div> -->
+ <div class="g-recaptcha" data-sitekey="6Ler5hkUAAAAACztuiminvsVjRmEXz8Uws3wjnml"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?k=6Ler5hkUAAAAACztuiminvsVjRmEXz8Uws3wjnml&amp;co=aHR0cHM6Ly9nZXRpZGEuY29tOjQ0Mw..&amp;hl=en&amp;v=r20170727143628&amp;size=normal&amp;cb=vgw3txutcgzz" title="recaptcha widget" scrolling="no" sandbox="allow-forms  allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups allow-popups-to-escape-sandbox" width="304" height="78" frameborder="0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;  display: none; "></textarea></div></div>
+                <br>
+                <button type="submit" id="signup" class="btn btn-primary btn-lg" [disabled]="!registrationForm.valid">Sign Up</button>
+                <br>
+                <br>
+                <!-- <button type="submit" class="btn btn-warning btn-lg">Signup</button> -->
+            </form>
+            <hr>
+            <p>Already have an account? <a href="/login">Login</a></p>
+            <p>Or go <a href="/">home</a>.</p>
+        </div>
+    </div>
+    <div id="footerwrapsmall">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>GETIDA © 2017</p>
+                </div>
+            </div>
+            
+        </div>
+      
+    </div>
+
+
+    <button (click)="onSomething()">See Form</button>
+  

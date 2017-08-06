@@ -1,0 +1,55 @@
+.navbar-default { 
+	background-color: #384452; 
+	border-color: transparent;
+}
+
+.navbar a {
+	background-color: #384452;
+	transition: color 0.5s ease;
+	color: rgb(6, 171, 239);
+}
+
+.navbar a:hover {
+	color: white;
+}
+
+
+.navbar {
+	min-height: 70px;
+	padding-top: 10px;
+	margin-bottom: 0px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.navbar-fixed-top {
+	top: 0;
+	border-width: 0 0 1px;
+}
+
+.navbar-brand {
+	float: left;
+	height: 50px;
+	padding: 15px 15px;
+
+}
+
+.navbar-header .navbar-brand {
+	color: white;
+}
+
+.navbar-brand {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 700;
+	font-size: 19px;
+}
+
+.navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: white;
+	background-color: transparent;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+	color: rgb(6, 171, 239);;
+}

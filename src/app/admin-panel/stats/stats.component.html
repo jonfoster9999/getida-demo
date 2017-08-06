@@ -1,0 +1,13 @@
+<div id="chart-container">
+
+      <div style="display: block; ">
+        <canvas style="max-height: 450px; max-width: 900px;" baseChart
+                [datasets]="barChartData"
+                [labels]="barChartLabels"
+                [options]="barChartOptions"
+                [legend]="barChartLegend"
+                [chartType]="barChartType"
+                (chartHover)="chartHovered($event)"
+                (chartClick)="chartClicked($event)"></canvas>
+      </div>
+</div>
