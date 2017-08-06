@@ -8,6 +8,7 @@ import { ReferralsComponent } from './admin-panel/referrals/referrals.component'
 import { ProfileComponent } from './admin-panel/profile/profile.component';
 import { StatsComponent } from './admin-panel/stats/stats.component';
 import { SettingsComponent } from './admin-panel/settings/settings.component';
+import { ContactComponent } from './admin-panel/contact/contact.component';
 
 const routes: Routes = [
     {path: '', redirectTo: '/home', pathMatch: 'full'},
@@ -19,7 +20,8 @@ const routes: Routes = [
 		{path: 'referrals', component: ReferralsComponent},
 		{path: 'profile', component: ProfileComponent},
 		{path: 'stats', component: StatsComponent},
-		{path: 'settings', component: SettingsComponent}
+		{path: 'settings', component: SettingsComponent},
+		{path: 'contact', component: ContactComponent}
 	]}
 ]
 
