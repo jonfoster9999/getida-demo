@@ -23,7 +23,7 @@ html {
 
 .aspect-ratio {
   height: 0;
-  padding-bottom: 50%;
+
 }
 
 @keyframes fadeIn {
@@ -32,8 +32,7 @@ html {
   }
 }
 
-#chart-container {
-  margin-left: 20px;
-  max-height: 400px;
+canvas {
+  height: 400px;
   margin-top: 30px;
 }

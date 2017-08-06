@@ -33,9 +33,11 @@
     border-top: 0;
 }
 .toppad {
-  margin-top:40px;
-  width: 700px;
-  margin-left: 70px;
+  margin-top: 55px;
+  width: 60%;
+  min-width: 600px;
+  display: block;
+  margin-left: 20%;
 }
 
 .panel-info > .panel-heading {

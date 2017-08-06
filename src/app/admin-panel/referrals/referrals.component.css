@@ -5,11 +5,11 @@
   padding: 40px;
   padding-bottom: 0px;
   max-width: 800px;
+  margin-top: 20px;
 
 }
 
 .table {
-  margin-left: 40px;
   margin-right: auto;
   width: 100%;
   box-shadow: 0, 1px, 3px, rgba(0,0,0,0.2);
@@ -27,9 +27,8 @@
 }
 
 h4 {
-
-  margin-left: 45px;
   color: green;
+  margin-left: 5px;
 }
 
 .cell {
