@@ -15,10 +15,12 @@
   box-shadow: 0, 1px, 3px, rgba(0,0,0,0.2);
   display: table;
   padding-bottom: 0px;
+  border-radius: 5px;
   border: 1px solid #ccc;
   @media screen and (max-width: 580px) {
     display: block;
   }
+
 }
 
 .row {
