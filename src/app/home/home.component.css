@@ -247,8 +247,8 @@ margin: 30px;
 ################################################################# */
 
 #headerwrap {
-	background: url(http://localhost:4200/assets/img/backgroundopa05.jpg);
-  background-size: cover;
+	background: url(http://getida-demo.herokuapp.com/assets/img/backgroundopa05.jpg);
+    background-size: cover;
 	min-height: 550px;
 	padding-top: 200px;
 	padding-bottom: 0px;
@@ -301,7 +301,7 @@ margin: 30px;
 
 }
 #leftimage{
-	background-image: url(http://localhost:4200/assets/img/leftimage.jpg);
+	background-image: url(http://getida-demo.herokuapp.com/assets/img/leftimage.jpg);
 	background-size: cover;
 	min-height: 700px;
 }
@@ -311,7 +311,7 @@ margin: 30px;
 
 /* Testimonials Wrap */
 #twrap {
-	background: url(http://localhost:4200/assets/img/t-back3.jpg) no-repeat center top;
+	background: url(http://getida-demo.herokuapp.com/assets/img/t-back3.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:60px;
 	text-align:center;
