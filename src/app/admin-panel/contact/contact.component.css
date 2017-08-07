@@ -1,15 +1,23 @@
-h5 {
-	margin-top: -10px;
-	margin-left: -10px;
+body{
+
+   
+    
 }
 
-.container {
-	width: 700px;
-	margin-top: 30px;
+#box{
+    border: 1px solid rgb(200, 200, 200);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px 2px;
+    background: rgba(200, 200, 200, 0.1);
+    border-radius: 4px;
+    top:50px;
+    width: 550px;
 }
 
-.well {
-	background-color: rgb(236, 236, 236);
-	border-radius: 5px;
-	border: 1px solid #ccc;
+h2{
+    text-align:center;
+    color:#fff;
+}
+
+form {
+	width: 500px;
 }
